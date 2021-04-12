@@ -1,0 +1,8 @@
+README.md
+setup.py
+virtualsketch/virtualsketch.py
+virtualsketch/virtualsketch.egg-info/PKG-INFO
+virtualsketch/virtualsketch.egg-info/SOURCES.txt
+virtualsketch/virtualsketch.egg-info/dependency_links.txt
+virtualsketch/virtualsketch.egg-info/requires.txt
+virtualsketch/virtualsketch.egg-info/top_level.txt

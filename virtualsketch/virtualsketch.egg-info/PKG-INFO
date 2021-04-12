@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: virtualsketch
+Version: 0.0.1
+Summary: Sketch by hand moments with rgb colours.
+Home-page: https://github.com/Akash-Peace
+Author: Akash.A
+Author-email: akashcse2000@gmail.com
+License: MIT
+Description: ## virtualsketch
+        
+        virtualsketch is a sketch tab where user can sketch by hand moments with rgb colours.
+        
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
