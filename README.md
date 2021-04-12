@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="https://github.com/Akash-Peace/KIVY-PLYER-ANDROIDAPP/blob/main/images/disco_icon.png" alt="Logo" width="150" height="150">
+  <img src="https://github.com/Akash-Peace/CV-SHAPE-COLOR-DETECTION/blob/main/screenshots/Virtual_sketch_logo.png" alt="Logo" width="150" height="150">
   <h3 align="center">VIRTUAL SKETCH</h3>
   <p align="center">
     <a href="https://docs.python.org/3/library/intro.html"><strong>A Python Library</strong></a>
