@@ -6,7 +6,7 @@
     <a href="https://docs.python.org/3/library/intro.html"><strong>A Python Library</strong></a>
     <br />
     <br />
-    <a href="#installation">Installation</a>Installation</a>
+    <a href="#installation">Installation</a>
     ·
     <a href="https://github.com/Akash-Peace/CV-SHAPE-COLOR-DETECTION/issues">Report Bug</a>
     ·
@@ -38,10 +38,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Virtual Sketch project objective is to make a drawing tab that can be controllable by hand movement using [OpenCV](https://opencv.org/).
- First of all, Applying shape detection particulary detecting square which is assumed to be a sketch pen and
- also applying color detection particulary RGB to change the color of sketch.
- As mentioned, I decided to present this project as a python library, particularly using the [PyPI](https://pypi.org/). [MIT](https://github.com/Akash-Peace/CV-SHAPE-COLOR-DETECTION/blob/main/LICENSE) licenses this project and it is free to use, fork, modify and distribute. If you like this project, give a _star_ and follow me.
+Virtual Sketch project objective is to make a drawing tab that can be controllable by hand movement using [OpenCV](https://opencv.org/). First of all, Applying shape detection particulary detecting square which is assumed to be a sketch pen and also applying color detection particulary RGB to change the color of sketch. As mentioned, I decided to present this project as a python library, particularly using the [PyPI](https://pypi.org/). [MIT](https://github.com/Akash-Peace/CV-SHAPE-COLOR-DETECTION/blob/main/LICENSE) licenses this project and it is free to use, fork, modify and distribute. If you like this project, give a _star_ and follow me.
 
 
 ## Built With
